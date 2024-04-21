@@ -38,3 +38,6 @@
 - **Level 31**: Git Tagging.
 - **Level 32**: Git Push, Commit, Ignore, Add.
 - **Level 33**: Linux Variables and shell escape.
+
+## View the introduction
+⇒ [Quick Introduction and must knows](introduction.md)
