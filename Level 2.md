@@ -25,4 +25,4 @@ CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```
 So we got the next password.
 
-[Level 3](Level%203)
+[Level 3](Level%203.md)
