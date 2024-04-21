@@ -25,4 +25,3 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 When you run the command, you'll be prompted to enter the password. Input the provided password (it will not be visible as you type due to security reasons).
 
 Congratulations, you've completed Level 0!
-
