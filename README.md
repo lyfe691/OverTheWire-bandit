@@ -8,7 +8,7 @@ I didn't complete all the levels on my own since im not a expert, I did infact d
 #### Quick level clarifications for an overview: 
  ⇒ [Level Clarifications](Quick%20Level%20Clarifications.md) 
  
-#### Offical OverTheWire | Bandit Website
+#### Offical OverTheWire Bandit Website
 
  ⇒ [OverTheWire | Bandit](https://overthewire.org/wargames/bandit/)
 
