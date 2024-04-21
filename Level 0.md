@@ -1,6 +1,4 @@
-# OverTheWire: Bandit Level 0 Guide
 
-Welcome to my guide for the Bandit Level 0 of the OverTheWire wargames.
 
 ## Task
 
