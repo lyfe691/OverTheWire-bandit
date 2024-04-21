@@ -1,8 +1,18 @@
-# OverTheWire: Bandit Level 1 → Level 2 Guide
-Welcome to my guide for the Bandit Level 1 → Level 2 of the OverTheWire wargames.
+
 ## Task
 The password for the next level is stored in a file called readme located in the home directory.
+## Login
+```bash
+SSH: ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
+```bash
+Password: bandit0
+```
+
 ## Solution
+
+
+
 
 Make sure readme file is in the directory
 ```bash
