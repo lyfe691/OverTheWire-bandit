@@ -24,5 +24,6 @@ bandit0@bandit:~$ cat readme
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
 The resulting string is the password for the ‘bandit1’ user.
+<hr>
 
 [Level 2](Level%202.md)
