@@ -20,6 +20,8 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```bash
 bandit0
 ```
+<hr>
+
 [Level 1](Level%201.md)
 
 
