@@ -1,10 +1,10 @@
 # Level 2
 
 ## Login 
-**Host**: bandit.labs.overthewire.org  
-**Port**: 2220  
-**Username**: `bandit1`  
-**Password**: `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`
+```bash
+SSH: ssh bandit1@bandit.labs.overthewire.org   -p 2220  
+Password: `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`
+```
 
 ## Task
 Retrieve the password from the file named `-`.
