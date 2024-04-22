@@ -27,5 +27,6 @@ bandit2@bandit:~$ cat \spaces\ in\ this\ filename\
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 ```
 And we can read the file and get the next password.
+<hr>
 
 [Level 4](Level%204.md)
