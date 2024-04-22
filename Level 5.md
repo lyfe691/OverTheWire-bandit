@@ -52,5 +52,6 @@ bandit4@bandit:~/inhere$ cat ./-file07
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ```
 And we get the next password.
+<hr>
 
 [Level 6](Level%206.md)
