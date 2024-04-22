@@ -53,4 +53,4 @@ koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ```
 And we get the next password.
 
-[Level 6](Level%206)
+[Level 6](Level%206.md)
