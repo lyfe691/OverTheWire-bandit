@@ -1,3 +1,4 @@
+# Level 10
 ## Login
 ```bash
 SSH: ssh bandit9@bandit.labs.overthewire.org -p 2220
