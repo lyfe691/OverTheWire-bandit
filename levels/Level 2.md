@@ -1,6 +1,6 @@
-# OverTheWire: Bandit Level 1 Guide
+# Level 2
 
-## Login Details
+## Login 
 **Host**: bandit.labs.overthewire.org  
 **Port**: 2220  
 **Username**: `bandit1`  
