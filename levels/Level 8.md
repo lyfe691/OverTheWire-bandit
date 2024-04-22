@@ -1,3 +1,4 @@
+# Level 8
 ## Login
 ```bash
 SSH: ssh bandit7@bandit.labs.overthewire.org -p 2220
